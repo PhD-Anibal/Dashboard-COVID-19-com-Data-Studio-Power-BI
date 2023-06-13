@@ -48,7 +48,6 @@ Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiNWNmYjI0ZGYtODUyNi00ZWEx
 Covid DashBoard com Google Data Studio
 
 ![Imagem Dashboard Covid com Data Studio](img_datastudio.jpg)
-Covid DashBoard com Google Data Studio
 
 Dashboard [link](https://lookerstudio.google.com/reporting/20c864df-7fb0-4d4d-9924-b86a9abb1f7d)
 
